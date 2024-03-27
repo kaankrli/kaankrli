@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Kaan Kırlı 👋
+
 
     <h1>👋 Hello, I'm [Your Name]!</h1>
 
@@ -6,8 +7,8 @@
 
     <h2>🔧 Skills</h2>
     <ul>
-        <li>Programming Languages: [Languages you're proficient in]</li>
-        <li>Technologies/Frameworks: [Technologies and frameworks you work with]</li>
+        <li>Programming Languages: Python </li>
+        <li>Technologies/Frameworks: Google Colab, VS Code </li>
     </ul>
 
     <h2>🌱 Currently Learning</h2>
