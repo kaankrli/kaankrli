@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
-</head>
-<body>
     <h1>👋 Hello, I'm [Your Name]!</h1>
 
     <p>I'm a passionate software developer who loves to build cool stuff. I specialize in [specific technologies or domains]. Currently, I'm focused on [current project or learning goal].</p>
@@ -31,9 +23,6 @@
     </ul>
 
     <p>Feel free to reach out and connect with me!</p>
-</body>
-</html>
-
 
 <!--
 **kaankirlii/kaankirlii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
