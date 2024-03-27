@@ -4,7 +4,7 @@ I'm a Data Scientist and Author. I specialize in Data Science, Machine Learning 
 
 Programming Languages: Python
 
-Technologies/Frameworks: Google Colab, VS Code
+Technologies/Frameworks: Google Colab, VS Code, Visual Studio
 
 <h2>📫 Let's Connect</h2>
     
