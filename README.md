@@ -1,4 +1,4 @@
-### Hi, I'm Kaan Kırlı 👋
+<h1>Hi, I'm Kaan Kırlı 👋</h1> 
 
 I'm a passionate Data Scientist and Author. I specialize in Data Science, Machine Learning and Online Education Platforms. Currently, I'm focused on Machine Learning and Prompt Engineering.
 
