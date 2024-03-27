@@ -10,8 +10,8 @@ Technologies/Frameworks: Google Colab, VS Code
 
 📫 Let's Connect</h2>
     
-  LinkedIn: <a href="[Your LinkedIn profile URL]">Your LinkedIn profile</a></li>
-        <li>Twitter: <a href="[Your Twitter profile URL]">Your Twitter profile</a></li>
+  LinkedIn: <a href="https://www.linkedin.com/in/kaank%C4%B1rl%C4%B1">My LinkedIn profile</a></li>
+ 
   
 
 **kaankirlii/kaankirlii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
