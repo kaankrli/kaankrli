@@ -1,30 +1,18 @@
 ### Hi, I'm Kaan Kırlı 👋
 
+I'm a passionate Data Scientist and Author. I specialize in Data Science, Machine Learning and Online Education Platforms. Currently, I'm focused on GenAI.
 
-    <h1>👋 Hello, I'm [Your Name]!</h1>
+Programming Languages: Python
+Technologies/Frameworks: Google Colab, VS Code
 
-    <p>I'm a passionate software developer who loves to build cool stuff. I specialize in [specific technologies or domains]. Currently, I'm focused on [current project or learning goal].</p>
+💼 Experience
+    [Previous experiences or projects]
 
-    <h2>🔧 Skills</h2>
-    <ul>
-        <li>Programming Languages: Python </li>
-        <li>Technologies/Frameworks: Google Colab, VS Code </li>
-    </ul>
-
-    <h2>🌱 Currently Learning</h2>
-    <p>[Technology or skill you're currently learning]</p>
-
-    <h2>💼 Experience</h2>
-    <p>[Previous experiences or projects]</p>
-
-    <h2>📫 Let's Connect</h2>
-    <ul>
-        <li>LinkedIn: <a href="[Your LinkedIn profile URL]">Your LinkedIn profile</a></li>
+📫 Let's Connect</h2>
+    
+  LinkedIn: <a href="[Your LinkedIn profile URL]">Your LinkedIn profile</a></li>
         <li>Twitter: <a href="[Your Twitter profile URL]">Your Twitter profile</a></li>
-    </ul>
-
-    <p>Feel free to reach out and connect with me!</p>
-
+  
 
 **kaankirlii/kaankirlii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
