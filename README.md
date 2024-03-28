@@ -6,6 +6,8 @@ Programming Languages: Python
 
 Technologies/Frameworks: Google Colab, VS Code, Visual Studio
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=kaankirlii&layout=compact
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=kaankirlii&show_icons=true&theme=dark"
