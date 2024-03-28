@@ -7,7 +7,8 @@ Programming Languages: Python
 Technologies/Frameworks: Google Colab, VS Code, Visual Studio
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaankirlii&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaankirlii&layout=compact&theme=dark)
 
 
 <picture>
