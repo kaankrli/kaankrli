@@ -2,7 +2,7 @@
 
 I'm a Data Scientist and Author. I specialize in Data Science, Machine Learning and Online Education Platforms. Currently, I'm focused on Machine Learning and Prompt Engineering.
 
-Programming Languages: Python
+Programming Languages: Python,C#,Java
 
 Technologies/Frameworks: Google Colab, VS Code, Visual Studio
 
