@@ -8,8 +8,6 @@ Technologies/Frameworks: Google Colab, VS Code, Visual Studio, Eclipse
 
 
 
-### Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaankrli&layout=compact&theme=dark)
 
 
