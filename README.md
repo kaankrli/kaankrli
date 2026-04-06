@@ -2,7 +2,7 @@
 
 I'm a Data Scientist, Content Creator and Author. I specialize in Data Science, Machine Learning and Online Education Platforms. Currently, I'm focused on Data Analysis, Machine Learning, Prompt Engineering and Generative AI.
 
-Programming Languages: Python,C#,Java
+Languages: Python,C#,Java, HTML,HTML5,CSS,JavaScript,SQL
 
 Technologies/Frameworks: Google Colab, VS Code, Visual Studio, Eclipse
 
