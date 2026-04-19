@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kaan Kırlı 👋</h1> 
 
-I'm a Data Scientist, Content Creator and Author. I specialize in Data Science, Machine Learning and Online Education Platforms. Currently, I'm focused on Data Analysis, Machine Learning, Prompt Engineering and Generative AI.
+I'm a Data Scientist, Content Creator and Author. I specialize in Data Science, Machine Learning and Online Education Platforms. Currently, I'm focused on Data Analysis, Content Creation, Research, Machine Learning, Prompt Engineering and Generative AI.
 
 Programming, Markup & Query Languages: Python,C#,Java, HTML,HTML5,CSS,JavaScript,SQL
 
